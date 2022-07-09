@@ -1,0 +1,24 @@
+.pull-left {
+  float: left;
+  width: 70%;
+}
+.pull-right {
+  float: right;
+  width: 20%;
+}
+
+
+.remark-slide-content {
+    font-size: 30px;
+    padding: 1em 4em 1em 4em;
+}
+
+.remark-slide-number {
+  display: none;
+}
+
+
+video {
+    position: relative;
+    left: 6%;
+}
